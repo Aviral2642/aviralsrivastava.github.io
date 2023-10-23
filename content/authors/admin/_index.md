@@ -35,22 +35,22 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Masters in cybersecurity analytics and operations
+      institution: Pennsylvania state University
+      year: 2025
+    - course: Bachelors of technology in computer science
+      institution: Amity University Rajasthan
+      year: 2023
+    - course:
+      institution:
+      year:
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
-    - name: Python
+    - name: Red teaming
       description: ''
       percent: 80
       icon: python
@@ -60,26 +60,26 @@ skills:
       percent: 100
       icon: chart-line
       icon_pack: fas
-    - name: SQL
+    - name: Machine learning
       description: ''
-      percent: 40
+      percent: 70
       icon: database
       icon_pack: fas
-  - name: Hobbies
+  - name: other
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Research
         description: ''
-        percent: 60
-        icon: person-hiking
+        percent: 70
+        icon: Coding
         icon_pack: fas
       - name: Cats
         description: ''
         percent: 100
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: AI
         description: ''
         percent: 80
         icon: camera-retro
