@@ -41,7 +41,6 @@ education:
     - course: Btech computer science
       institution: Amity University Jaipur, India
       year: 2023
-    - 
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
