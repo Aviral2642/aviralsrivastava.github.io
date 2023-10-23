@@ -39,7 +39,7 @@ education:
       institution: Penn State University
       year: 2025
     - course: Btech computer science
-      institution: Amity University Jaipur, India
+      institution: Amity University Jaipur
       year: 2023
 
 # Skills
