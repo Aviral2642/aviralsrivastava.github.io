@@ -35,16 +35,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Masters
-      institution: Penn State University
-      year: 2025
-    - course: Btech computer science
-      institution: Amity University Jaipur
-      year: 2023
-    - course: 
-      institution: 
-      year: 
-
+     - course: PhD in Artificial Intelligence
+      institution: Stanford University
+      year: 2012
+    - course: MEng in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2009
+    - course: BSc in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2008
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
