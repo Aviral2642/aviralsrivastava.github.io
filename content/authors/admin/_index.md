@@ -41,9 +41,6 @@ education:
     - course: Bachelors of technology in computer science
       institution: Amity University Rajasthan
       year: 2023
-    - course:
-      institution:
-      year:
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -69,17 +66,17 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Research
+      - name: Binary analysis
         description: ''
         percent: 70
         icon: Coding
         icon_pack: fas
-      - name: Cats
+      - name: Reverse engineering
         description: ''
-        percent: 100
+        percent: 90
         icon: cat
         icon_pack: fas
-      - name: AI
+      - name: Malware and exploit development
         description: ''
         percent: 80
         icon: camera-retro
