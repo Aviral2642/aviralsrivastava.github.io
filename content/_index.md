@@ -58,7 +58,7 @@ sections:
         - title: Cybersecurity Consultant Intern
           company: fnCyber
           company_url: ''
-          company_logo: fncyber.jpeg
+          company_logo: fncyber
           location: Hyderabad, India
           date_start: '2022-05-01'
           date_end: '2023-08-31'
@@ -71,7 +71,7 @@ sections:
         - title: Blue Team Intern
           company: Virtual Cyber Labs
           company_url: ''
-          company_logo: VCL.jpeg
+          company_logo: VCL
           location: Remote
           date_start: '2022-11-01'
           date_end: '2022-12-31'
@@ -83,7 +83,7 @@ sections:
         - title: Cloud Security Research Intern
           company: CyberFrat
           company_url: ''
-          company_logo: cyberfrat.jpeg
+          company_logo: cyberfrat
           location: Mumbai, India
           date_start: '2022-06-01'
           date_end: '2022-08-31'
@@ -95,7 +95,7 @@ sections:
         - title: Cybersecurity Research Intern
           company: ComExpo Cybersecurity
           company_url: ''
-          company_logo: CCS.jpeg
+          company_logo: CCS
           location: Ahmedabad, India
           date_start: '2021-07-01'
           date_end: '2022-01-31'
@@ -106,7 +106,7 @@ sections:
         - title: Cybersecurity Intern
           company: Infosec United
           company_url: ''
-          company_logo: IU.jpeg
+          company_logo: IU
           location: Remote
           date_start: '2021-08-01'
           date_end: '2022-02-28'
@@ -117,7 +117,7 @@ sections:
         - title: Cybersecurity Analyst Intern
           company: TalaKunchi Networks Pvt Ltd
           company_url: ''
-          company_logo: talakunchi.jpeg
+          company_logo: talakunchi
           location: Maharashtra, India
           date_start: '2021-09-01'
           date_end: '2021-11-30'
