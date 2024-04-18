@@ -127,10 +127,18 @@ sections:
               * Performed comprehensive security assessments
     design:
       columns: '2'
-  - block: Accomplish­ments
+  - accomplishments
     content:
-      title: 'Awards'
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Accomplish&shy;ments'
+      subtitle:
+      # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Cybersecurity Innovator of the Year
           organization: Bsides Bangalore
