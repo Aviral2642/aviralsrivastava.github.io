@@ -53,75 +53,125 @@ sections:
   - block: experience
     content:
       title: Experience
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Cybersecurity Consultant Intern
+          company: fnCyber
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          company_logo: org-fncyber
+          location: Hyderabad, India
+          date_start: '2022-05-01'
+          date_end: '2023-08-31'
           description: |2-
               Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Creation and implementation of strategic project and service templates
+              * Project-managed cloud migration of critical data assets
+              * Executed comprehensive penetration tests and security audits
+              * Improved security architectures for major clients
+        - title: Blue Team Intern
+          company: Virtual Cyber Labs
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: org-vcl
+          location: Remote
+          date_start: '2022-11-01'
+          date_end: '2022-12-31'
+          description: |2-
+              Responsibilities include:
+              * In-depth Windows Memory Analysis
+              * Development and testing of network security protocols
+              * Analysis and integration of ATT&CK frameworks
+        - title: Cloud Security Research Intern
+          company: CyberFrat
+          company_url: ''
+          company_logo: org-cyberfrat
+          location: Mumbai, India
+          date_start: '2022-06-01'
+          date_end: '2022-08-31'
+          description: |2-
+              Responsibilities include:
+              * Directed 'Infosec Fusion' event
+              * Authored and contributed to the CCSP syllabus
+              * Secured 2nd place in cybersecurity company ranking
+        - title: Cybersecurity Research Intern
+          company: ComExpo Cybersecurity
+          company_url: ''
+          company_logo: org-comexpo
+          location: Ahmedabad, India
+          date_start: '2021-07-01'
+          date_end: '2022-01-31'
+          description: |2-
+              Responsibilities include:
+              * Published research papers on cybersecurity topics
+              * Led research on big data security and image steganography
+        - title: Cybersecurity Intern
+          company: Infosec United
+          company_url: ''
+          company_logo: org-infosec
+          location: Remote
+          date_start: '2021-08-01'
+          date_end: '2022-02-28'
+          description: |2-
+              Responsibilities include:
+              * Organized national CTF competitions
+              * Facilitated hacking workshops
+        - title: Cybersecurity Analyst Intern
+          company: TalaKunchi Networks Pvt Ltd
+          company_url: ''
+          company_logo: org-talakunchi
+          location: Maharashtra, India
+          date_start: '2021-09-01'
+          date_end: '2021-11-30'
+          description: |2-
+              Responsibilities include:
+              * Led major security projects improving authentication measures
+              * Performed comprehensive security assessments
     design:
       columns: '2'
-  - block: accomplishments
+  - block: Awards
     content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
-      subtitle:
-      # Date format: https://wowchemy.com/docs/customization/#date-format
+      title: 'Awards'
       date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
+        - title: Cybersecurity Innovator of the Year
+          organization: Bsides Bangalore
+          date_start: '2023-01-01'
+          organization_url: ''
           description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+        - title: Best International Researcher
+          organization: ISSN
+          date_start: '2023-01-01'
+          organization_url: ''
           description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+        - title: Outstanding Researcher for Neural Cryptography
+          organization: ISSN
+          date_start: '2023-01-01'
+          organization_url: ''
+          description: ''
+        - title: Most Promising Researcher in Computer Science in Asia
+          organization: Asia Research Awards
+          date_start: '2023-01-01'
+          organization_url: ''
+          description: ''
+        - title: Academic Excellence Award
+          organization: InRes
+          date_start: '2023-01-01'
+          organization_url: ''
+          description: ''
+        - title: Distinguished Researcher Award
+          organization: International Research Awards
+          date_start: '2023-01-01'
+          organization_url: ''
+          description: ''
+        - title: Young Researcher Award
+          organization: Institute of Management Bhubaneswar
+          date_start: '2023-01-01'
+          organization_url: ''
+          description: ''
+        - title: Young Researcher Award for StegoDOG
+          organization: Institute of Scholars
+          date_start: '2022-01-01'
+          organization_url: ''
+          description: ''
     design:
       columns: '2'
   - block: collection
