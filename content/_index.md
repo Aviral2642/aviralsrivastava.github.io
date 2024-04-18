@@ -127,7 +127,7 @@ sections:
               * Performed comprehensive security assessments
     design:
       columns: '2'
-  - block: Awards
+  - block: Accomplish­ments
     content:
       title: 'Awards'
       date_format: Jan 2006
