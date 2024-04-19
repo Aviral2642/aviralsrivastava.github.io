@@ -291,7 +291,7 @@ sections:
       subtitle:
       text: |-
        I am always available for a research collaboration or any help. 
-       Contact (add or remove contact options as necessary)
+      # Contact (add or remove contact options as necessary)
       email: aks7873@psu.edu
       phone: 8147696414
       appointment_url: currently unavailable
@@ -299,7 +299,7 @@ sections:
         street: 
         city: State college
         region: PA
-       postcode: '16803'
+        postcode: '16803'
         country: United States
         country_code: US
       directions: NA
